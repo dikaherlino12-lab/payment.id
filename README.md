@@ -517,7 +517,7 @@
             <!-- Jumlah Transaksi Fake & No Transaksi Terakhir di Paling Bawah -->
             <div class="transaction-summary">
                 <div>
-                    <span>Total Transaksi Fake:</span>
+                    <span>Total Transaksi :</span>
                     <b>142 Berhasil</b>
                 </div>
                 <div style="text-align: right;">
